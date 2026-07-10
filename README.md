@@ -9,10 +9,10 @@ Kumpulan preset profesional untuk Adobe After Effects yang dirancang untuk mempe
 *   **Kompatibilitas:** Kompatibel dengan After Effects [Sebutkan Versi, misal: CC 2020 ke atas].
 
 ## 📦 Isi Koleksi
-Proyek ini mencakup [Jumlah] preset yang terbagi dalam kategori:
-1.  **[Kategori 1, misal: Text Animations]:** [Penjelasan singkat].
-2.  **[Kategori 2, misal: Camera Transitions]:** [Penjelasan singkat].
-3.  **[Kategori 3, misal: Color Grading/Looks]:** [Penjelasan singkat].
+Proyek ini mencakup 3 preset yang terbagi dalam kategori:
+1.  **Text Animations**
+2.  **Camera Transitions**
+3.  **Color Grading/Looks**
 
 ## 🛠 Cara Instalasi
 1.  Unduh file `.ffx` dari repositori ini.
