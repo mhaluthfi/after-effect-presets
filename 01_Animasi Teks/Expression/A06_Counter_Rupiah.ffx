@@ -1,0 +1,3 @@
+target = 1500000; durasi = 4;
+num = Math.min(target, Math.floor(linear(time, 0, durasi, 0, target)));
+"Rp " + num.toLocaleString('id-ID');

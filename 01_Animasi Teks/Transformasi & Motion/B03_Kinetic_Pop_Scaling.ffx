@@ -1,0 +1,8 @@
+durasi = 2;
+if (time < durasi) {
+  progress = Math.floor(linear(time, 0, durasi, 0, 5));
+  spaces = "".padEnd(progress, " ");
+  value.split("").join(spaces);
+} else {
+  value;
+}

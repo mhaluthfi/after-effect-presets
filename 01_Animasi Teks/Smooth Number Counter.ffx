@@ -1,0 +1,5 @@
+var startNumber = 0;
+var endNumber = 100000;
+var duration = 3; 
+var currentNumber = Math.min(endNumber, Math.floor(linear(time, 0, duration, startNumber, endNumber)));
+currentNumber.toLocaleString('id-ID');

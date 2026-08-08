@@ -1,0 +1,3 @@
+d = new Date();
+h = d.getHours(); m = d.getMinutes(); s = d.getSeconds();
+(h<10?"0":"")+h + ":" + (m<10?"0":"")+m + ":" + (s<10?"0":"")+s;

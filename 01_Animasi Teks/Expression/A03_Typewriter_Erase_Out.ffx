@@ -1,0 +1,3 @@
+speed = 15;
+erase = Math.max(0, value.length - (time * speed));
+value.substr(0, erase);

@@ -1,0 +1,4 @@
+detikTotal = Math.floor(time);
+menit = Math.floor(detikTotal / 60);
+detik = detikTotal % 60;
+(menit < 10 ? "0" : "") + menit + ":" + (detik < 10 ? "0" : "") + detik;

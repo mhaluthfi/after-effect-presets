@@ -1,0 +1,11 @@
+var glitchDuration = 1.5; 
+var chars = "0123456789$#@%&*+=?";
+var output = "";
+if (time < glitchDuration) {
+    for (var i = 0; i < value.length; i++) {
+        output += chars.charAt(Math.floor(Math.random() * chars.length));
+    }
+} else {
+    output = value;
+}
+output;

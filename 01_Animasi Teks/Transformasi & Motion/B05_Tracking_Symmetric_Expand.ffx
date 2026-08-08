@@ -1,0 +1,3 @@
+spacing = Math.floor(time * 2);
+spaces = "".padEnd(spacing, " ");
+value.split("").join(spaces);
