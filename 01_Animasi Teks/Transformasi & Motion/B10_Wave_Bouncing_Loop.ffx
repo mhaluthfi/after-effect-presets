@@ -1,6 +1,0 @@
-bounce = Math.floor(Math.sin(time * 5) * 1.5);
-if (bounce > 0) {
-  "\n" + value;
-} else {
-  value;
-}

@@ -1,4 +1,0 @@
-var speed = 25; 
-var show = time * speed;
-var cursorMode = (Math.floor(time * 4) % 2) ? "┃" : "";
-value.substr(0, show) + cursorMode;

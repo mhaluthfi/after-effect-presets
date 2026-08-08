@@ -1,3 +1,0 @@
-durasi = 5;
-persen = Math.min(100, Math.floor(linear(time, 0, durasi, 0, 100)));
-persen + "%";

@@ -1,2 +1,0 @@
-start = 0; target = 5000; durasi = 3;
-Math.min(target, Math.floor(linear(time, 0, durasi, start, target)));

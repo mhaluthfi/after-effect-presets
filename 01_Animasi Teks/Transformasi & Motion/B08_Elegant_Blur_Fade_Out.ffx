@@ -1,8 +1,0 @@
-startTime = 3;
-speed = 15;
-if (time > startTime) {
-  erase = Math.max(0, value.length - ((time - startTime) * speed));
-  value.substr(0, erase);
-} else {
-  value;
-}

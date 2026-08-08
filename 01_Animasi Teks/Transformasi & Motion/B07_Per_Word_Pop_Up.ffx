@@ -1,3 +1,0 @@
-words = value.split(" ");
-index = Math.min(words.length - 1, Math.floor(time / 0.4));
-words[index];

@@ -1,5 +1,0 @@
-out = "";
-for (i = 0; i < value.length; i++) {
-  out += (Math.random() > 0.5) ? value[i].toUpperCase() : value[i].toLowerCase();
-}
-out;

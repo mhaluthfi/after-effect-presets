@@ -1,7 +1,0 @@
-durasi = 2; 
-simbol = "XYZ#@$%&*1029";
-out = "";
-if (time < durasi) {
-  for (i=0; i<value.length; i++) out += simbol.charAt(Math.floor(Math.random()*simbol.length));
-} else { out = value; }
-out;

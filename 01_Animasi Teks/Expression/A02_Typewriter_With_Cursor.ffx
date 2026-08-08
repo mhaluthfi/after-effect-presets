@@ -1,4 +1,0 @@
-speed = 20;
-show = time * speed;
-cursor = (Math.floor(time * 3) % 2) ? "_" : "";
-value.substr(0, show) + cursor;

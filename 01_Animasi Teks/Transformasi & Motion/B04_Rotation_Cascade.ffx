@@ -1,7 +1,0 @@
-durasi = 1.5;
-if (time < durasi) {
-  progress = Math.floor(linear(time, 0, durasi, 0, value.length));
-  value.substring(0, progress) + "┃".repeat(value.length - progress);
-} else {
-  value;
-}

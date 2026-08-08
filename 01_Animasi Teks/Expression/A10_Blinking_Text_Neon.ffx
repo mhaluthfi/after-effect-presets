@@ -1,2 +1,0 @@
-kecepatan = 4; 
-(Math.floor(time * kecepatan) % 2) ? value : "";

@@ -1,6 +1,0 @@
-delay = 1;
-if (time < delay) {
-  "\n\n" + value;
-} else {
-  value;
-}
