@@ -9,7 +9,7 @@ A collection of professional presets for Adobe After Effects, designed to accele
 *   **Compatibility:** Compatible with After Effects (CC 2020 and later).
 
 ## 📦 Collection Content
-This project includes 3 presets divided into the following categories:
+This project includes 7 presets divided into the following categories:
 1.  **Digital Look**
 2.  **Glitch FX**
 3.  **Hand Drawn**
