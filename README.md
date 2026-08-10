@@ -10,9 +10,13 @@ A collection of professional presets for Adobe After Effects, designed to accele
 
 ## 📦 Collection Content
 This project includes 3 presets divided into the following categories:
-1.  **Text Animations**
-2.  **Camera Transitions**
-3.  **Color Grading/Looks**
+1.  **Digital Look**
+2.  **Glitch FX**
+3.  **Hand Drawn**
+4.  **RGB Displacement**
+5.  **Rim Light**
+6.  **Texture**
+7.  **Trim Paths**
 
 ## 🛠 Installation Guide
 1.  Download the `.ffx` files from this repository.
